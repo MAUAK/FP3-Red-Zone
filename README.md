@@ -3,26 +3,30 @@ Fábrica de Projetos 3 - Red Zone
 
 High Concept - Red Zone (FP3)
 
+Departamento de Jogos Digitais – Centro Universitário FACENS – Sorocaba,SP – Brasil
 
-Titulo: Our Last Goodbye
+Resumo – High Concept referente ao projeto “Out Last Goodbye” de Fábrica de Projetos 3
 
-Uma descrição em uma linha do funcionamento do jogo: Jogo 2d com foco na sobrevivência e experiencia em épocas de guerras
+Grupo – Red Zone
 
-GENERO: drama ,sobrevivência, suspense
+Descrição do jogo – O jogo se chama “Our Last Goodbye”, e acompanha a história da enfermeira Elizabeth que vai procurar seus filhos em um ambiente de guerra
 
-MECANICAS: frente, trás, atirar, esconder-se, interagir-se.
+Gênero – Drama e Sobrevivência
 
-Breve descrição da história do jogo: Uma mãe e seu cachorro lutam pela sobrevivência na guerra brutal de seu país ,para que assim , ela talvez ela possa reencontrar seus filhos desaparecidos.
+Mecânicas – A personagem anda para a direita e para a esquerda, atira, interage com o cenário (esconder-se etc) e pega objetos
 
-DIFERENCIAL: Contexto baseado em conflitos da ultima guerra
+História do jogo - Uma mãe que acaba se vendo no meio de uma guerra, busca voltar para sua casa encontrar seus filhos. No meio do percurso ela vai perdendo seu senso e acaba fazendo coisas cada vez piores para sobreviver
 
-SISTEMA OPERACIONAL: Windows (PC)
+Diferencial – Trata de um tema mais maduro e real, que é algo que infelizmente está sendo a realidade de muitos
 
-PUBLICO-ALVO: jovens adultos - 16+
+Plataforma – Microsoft Windows
 
-EQUIPE: programador, ilustrador,animador, game desing;
+Público-alvo – Pessoas de 16 a 50 anos
 
-CRONOGRAMA E ORÇAMENTO: Terminar o jogo até final de maio - R$33,00
+Orçamento do jogo e equipe – A Equipe é constituída por 5 membros, divididos entre programadores, artista e game designers
 
-------------------------------
+Cronograma – 3 meses
 
+Grupo – Maria Sabino (Artista), Daniel Oliveira (Programador), Geovany(Programador), Rafael Rodrigues(Game Designer e Documentação), Kauam Batista(Documentação, Programador e Game Designer).
+
+--------------------
