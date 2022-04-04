@@ -27,7 +27,7 @@ Orçamento do jogo e equipe – A Equipe é constituída por 5 membros, dividido
 
 Cronograma – 3 meses
 
-Grupo – Maria Sabino (Artista), Daniel Oliveira (Programador), Geovany(Programador), Rafael Rodrigues(Game Designer e Documentação), Kauam Batista(Documentação, Programador e Game Designer).
+Grupo – Maria Sabino (Artista), Daniel Oliveira (Programador,Game Designer), Geovany(Programador), Rafael Rodrigues(Game Designer e Documentação), Kauam Batista(Documentação, Programador e Game Designer).
 
 --------------------
 
