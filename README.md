@@ -11,13 +11,13 @@ Grupo – Red Zone
 
 Descrição do jogo – O jogo se chama “Our Last Goodbye”, e acompanha a história da enfermeira Elizabeth que vai procurar seus filhos em um ambiente de guerra
 
-Gênero – Drama e Sobrevivência
+Gênero – Ação e Furtivo
 
 Mecânicas – A personagem anda para a direita e para a esquerda, atira, interage com o cenário (esconder-se etc) e pega objetos
 
-História do jogo - Uma mãe que acaba se vendo no meio de uma guerra, busca voltar para sua casa encontrar seus filhos. No meio do percurso ela vai perdendo seu senso e acaba fazendo coisas cada vez piores para sobreviver
+História do jogo - Uma mãe que acaba se vendo no meio de uma guerra, e junto de seu companheiro Billy(cachorro), ela busca voltar para sua casa encontrar seus filhos, enquanto tem que lidar com todos os traumas e as dores de ver pessoas morrendo diariamente
 
-Diferencial – Trata de um tema mais maduro e real, que é algo que infelizmente está sendo a realidade de muitos
+Diferencial – Trata de um tema mais maduro e real: a guerra e as reflexões e traumas que ela pode deixar nas pessoas, estando diretamente ligado com o indicador 16 da ODS (Paz,Justiça e Instituições Eficazes
 
 Plataforma – Microsoft Windows
 
@@ -40,7 +40,7 @@ Público-alvo: Jovens adultos (16 a 30 anos)
 
 Faixa etária: Recomendado para pessoas de 16 anos ou mais, pois contém um tema pesado e violência explícita
 
-História do jogo(Resumo) - Uma mãe que acaba se vendo no meio de uma guerra, busca voltar para sua casa encontrar seus filhos. No meio do percurso ela vai perdendo seu senso e acaba fazendo coisas cada vez piores para sobreviver
+História do jogo(Resumo) - Uma mãe que acaba se vendo no meio de uma guerra, e junto de seu companheiro Billy(cachorro), ela busca voltar para sua casa encontrar seus filhos, enquanto tem que lidar com todos os traumas e as dores de ver pessoas morrendo diariamente
 
 Fluxo de telas:
 
@@ -67,9 +67,9 @@ BILLY(CACHORRO)
 ![billy](https://user-images.githubusercontent.com/64094846/162047254-254a7c03-310f-41c4-a5d1-b433da99e6fe.png)
 
 
-Características dos personagens na gameplay: A enfermeira não possui quase nada de vida e nenhuma expêriencia de combate, e tem que se locomover com base na furtividade e evitar o máximo o combate
+Características dos personagens na gameplay: Elizabeth não possui quase nada de vida e nenhuma expêriencia de combate, e tem que se locomover com base na furtividade e evitar o máximo o combate
 
-Controle da personagem: A enfermeira pula, anda de um lado para o outro, sobe escadas, se esconde no cenário e atira com sua pistola
+Controle da personagem: Elizabeth pula, anda de um lado para o outro, sobe escadas, se esconde no cenário e atira com sua pistola
 
 Interação dos personagens: Billy é o cachorro que acompanha Elizabeth durante sua jornada
 
