@@ -58,16 +58,20 @@ Progressão: Quanto mais perto do objetivo final, mais difícil fica de se passa
 
 Personagens:
 
-PROTAGONISTA(ELIZABETH):
+ELIZABETH(PROTAGONISTA):
 
-![Nurse](https://user-images.githubusercontent.com/64094846/161397427-2ad9f66e-3b73-451c-b449-50dd02a1e6ea.png)
+![elizabeth](https://user-images.githubusercontent.com/64094846/162047094-3ac70c00-8b5f-46ab-989a-ee1634d918ee.png)
+
+BILLY(CACHORRO)
+
+![billy](https://user-images.githubusercontent.com/64094846/162047254-254a7c03-310f-41c4-a5d1-b433da99e6fe.png)
 
 
 Características dos personagens na gameplay: A enfermeira não possui quase nada de vida e nenhuma expêriencia de combate, e tem que se locomover com base na furtividade e evitar o máximo o combate
 
 Controle da personagem: A enfermeira pula, anda de um lado para o outro, sobe escadas, se esconde no cenário e atira com sua pistola
 
-Interação dos personagens:
+Interação dos personagens: Billy é o cachorro que acompanha Elizabeth durante sua jornada
 
 
 
