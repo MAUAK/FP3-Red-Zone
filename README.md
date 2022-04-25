@@ -64,7 +64,7 @@ ELIZABETH(PROTAGONISTA):
 
 SOLDADO(INIMIGO)
 
-![soldado](https://user-images.githubusercontent.com/64094846/165005747-eec77c4a-471c-4041-b700-c702c356cb3b.png)
+![Soldado](https://user-images.githubusercontent.com/64094846/165008255-ce7d3075-f221-46ab-a56b-c8e78fe0edb5.png)
 
 BILLY(CACHORRO)
 
