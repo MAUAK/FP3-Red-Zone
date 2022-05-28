@@ -9,13 +9,13 @@ Resumo – High Concept referente ao projeto “Out Last Goodbye” de Fábrica 
 
 Grupo – Red Zone
 
-Descrição do jogo – O jogo se chama “Our Last Goodbye”, e acompanha a história da enfermeira Elizabeth que vai procurar seus filhos em um ambiente de guerra
+Descrição do jogo – O jogo se chama “Our Last Goodbye”, e acompanha a história da policial Elizabeth que vai procurar seus filhos em um ambiente de guerra
 
-Gênero – Ação e Furtivo
+Gênero – Ação e Plataforma
 
-Mecânicas – A personagem anda para a direita e para a esquerda, atira, pula, interage com o cenário (esconder-se etc) e pega objetos
+Mecânicas – A personagem anda para a direita e para a esquerda, atira, pula, interage com o cenário (esconder-se etc), pega alimentos e come alimentos
 
-História do jogo - Uma mãe que acaba se vendo no meio de uma guerra, e junto de seu companheiro Billy(cachorro), ela busca voltar para sua casa encontrar seus filhos, enquanto tem que lidar com todos os traumas e as dores de ver pessoas morrendo diariamente
+História do jogo - Uma mãe que acaba se vendo no meio de uma guerra, ela busca encontrar seus filhos, sem pistas de onde estão, ela parte em uma aventura cheia de perigos, dores e traumas que a guerra proporciona, para encontrar pistas do paradeiro dos filhos
 
 Diferencial – Trata de um tema mais maduro e real: a guerra e as reflexões e traumas que ela pode deixar nas pessoas, estando diretamente ligado com o indicador 16 da ODS (Paz,Justiça e Instituições Eficazes
 
@@ -27,7 +27,7 @@ Orçamento do jogo e equipe – A Equipe é constituída por 5 membros, dividido
 
 Cronograma – 3 meses
 
-Grupo – Maria Sabino (Artista), Daniel Oliveira (Programador,Game Designer), Geovany(Programador), Rafael Rodrigues(Game Designer e Documentação), Kauam Batista(Documentação, Programador e Game Designer).
+Grupo – Maria Sabino, Daniel Oliveira (Programador,Game Designer), Geovany(Programador), Rafael Rodrigues(Game Designer e Documentação), Kauam Batista(Documentação, Programador e Game Designer).
 
 --------------------
 
@@ -40,7 +40,7 @@ Público-alvo: Jovens adultos (16 a 30 anos)
 
 Faixa etária: Recomendado para pessoas de 16 anos ou mais, pois contém um tema pesado e violência explícita
 
-História do jogo(Resumo) - Uma mãe que acaba se vendo no meio de uma guerra, e junto de seu companheiro Billy(cachorro), ela busca voltar para sua casa encontrar seus filhos, enquanto tem que lidar com todos os traumas e as dores de ver pessoas morrendo diariamente
+História do jogo(Resumo) - Uma mãe que acaba se vendo no meio de uma guerra, ela busca encontrar seus filhos, sem pistas de onde estão, ela parte em uma aventura cheia de perigos, dores e traumas que a guerra proporciona, para encontrar pistas do paradeiro dos filhos
 
 Fluxo de telas:
 
@@ -48,9 +48,12 @@ Fluxo de telas:
 ![gamefluxo](https://user-images.githubusercontent.com/64094846/161396799-7f64b236-de73-4cbd-bbae-b11038c59a86.png)
 
 
-Gênero do jogo: Ação e Furtivo, onde a personagem tem recursos escassos e inimigos muito mais treinados
+Gênero do jogo: Ação e Plataforma
 
-Desafios: Sobreviver sem muitos recursos de combate, derrotar inimigos e não deixar seu nível de fome chegar no 0, pois resulta na diminuição contínua da barra de vida da personagem
+Desafios: 
+-Sobreviver sem muitos recursos para combate, apenas seu fiel revólver
+-Derrotar inimigos e não deixar seu nível de fome chegar no 0, pois resulta na diminuição contínua da barra de vida da personagem
+-Procurar pistas sobre o paradeiro de seus filhos em várias áreas do mapa
 
 Objetivo do jogo: A protagonista sobreviver e encontrar seus filhos perdidos
 
@@ -66,16 +69,13 @@ SOLDADO(INIMIGO)
 
 ![Soldado](https://user-images.githubusercontent.com/64094846/165008255-ce7d3075-f221-46ab-a56b-c8e78fe0edb5.png)
 
-BILLY(CACHORRO)
-
-![billy](https://user-images.githubusercontent.com/64094846/162047254-254a7c03-310f-41c4-a5d1-b433da99e6fe.png)
 
 
-Características dos personagens na gameplay: Elizabeth não possui quase nada de vida e expêriencia de combate, então tem que se locomover com cuidado, se escondendo, e derrotando inimigos apenas quando necessário
+Características dos personagens na gameplay: Elizabeth possui uma quantidade não muito elevada de vida e experiência policial, ela tem que derrotar os soldados atirando neles, mas enquanto ela tem apenas um revólver, os soldados possuem um fuzil automático
 
-Controle da personagem: Elizabeth pula, anda de um lado para o outro, sobe elevadores, se esconde no cenário e atira com sua pistola
+Controle da personagem: Elizabeth pula, anda de um lado para o outro, sobe elevadores, se esconde no cenário, atira com sua pistola, pega itens(alimentos e munição) pelo mapa e come os alimentos para não deixar sua barra de fome diminuir
 
-Interação dos personagens: Billy é o cachorro que acompanha Elizabeth durante sua jornada; O Soldado é o inimigo padrão do jogo, que tenta matar Elizabeth quando está sendo vista
+Interação dos personagens: O Soldado é o inimigo padrão do jogo, que tenta matar Elizabeth quando está sendo vista
 
 
 
@@ -86,26 +86,25 @@ Fluxo do jogo: Menu Principal - Play - Fase tutorial (ensina como jogar o jogo) 
 
 Cenário do jogo:
 
-Game World:  Será em um ambiente destruído pela guerra, com soldados inimigos circulando e pessoas em extrema dificuldade
+Game World:  Será em um ambiente tomado pela guerra, com soldados inimigos circulando e diversas armadilhas
 
-Game Experience: O jogador será colocado de sua vida mundana em um cenário de guerra destruído e sem esperanças, a primeira impressão que fica é a emoção passada nas primeiras cenas junto com uma trilha sonora de ação misturada com melancolia, com a continuação da história no mesmo estilo, ficando cada vez mais triste.
+Game Experience: O jogador será colocado um cenário de guerra sem muita explicação até o término da fase 1, onde Elizabeth acha a primeira pista sobre seus filhos, a primeira impressão que fica é a gameplay interessante junto com uma trilha sonora envolvente, seguida pelo interesse no objetivo principal da personagem, que ao longo da jornada da a sensação que está ficando mais próximo
 
 
 GAMEPLAY MECHANICS
 
-Coletáveis: Munição
+Coletáveis: Munição e comida
 
-Mecânica do protagonista: A e D para a movimentação do player(esquerda e direita), E para subir o elevador, ESPAÇO para pular, e Botão Esquerdo do mouse para atirar
+Mecânica do protagonista: A e D para a movimentação do player(esquerda e direita), E para subir o elevador, ESPAÇO para pular, Botão Esquerdo do mouse para atirar, I para abrir o inventário e Clicar com o botão esquerdo do mouse para comer a comida do inventário
 
-Inteligência Artificial: 
+Inteligência Artificial: Inimigos patrulham pela cena e atiram no player se ele chegar muito próximo
 
-Como os inimigos irão prejudicar o player: Atirando no player
+Como os inimigos irão prejudicar o player: Atirando no player com seus fuzis
 
-Como o jogador poderá vencê-los: Ou ela passa de fase passando despercebida pelos inimigos ou poderá derrota-los com 5 tiros
+Como o jogador poderá vencê-los: Ou ela passa de fase passando despercebida pelos inimigos ou poderá derrota-los atirando neles
 
-Os inimigos possuem uma história:
+Os inimigos possuem uma história: Soldados do lado oposto da personagem na guerra
 
-Soldados do lado oposto na guerra
 
 
 CENAS DE CORTE, MATERIAIS DE BÔNUS E CONCORRÊNCIA
@@ -118,9 +117,21 @@ Persoangem principal: https://poohcom1.itch.io/soldier-girl-sprite-pack
 
 Soldado Inimigo: https://www.deviantart.com/lostchild14000/art/Sprite-Sheet-Gun-Soldier-675509084
 
-Cenário de fundo: https://wallpaperaccess.com/destroyed
+Cenário de fundo: https://sirshoe.itch.io/devils-coin-tileset e https://pixy.org/5940560/
 
-Chão: https://craftpix.net/freebies/free-war-pixel-art-2d-backgrounds/?num=1&count=10&sq=war&pos=4
+Chão: https://sarturxz.itch.io/platformer-2d-tilesset-1-sarturxzsartur-art-studio
+
+Prédios: https://sirshoe.itch.io/devils-coin-tileset
+
+Postes de luz: https://sirshoe.itch.io/devils-coin-tileset
+
+Containers: https://sirshoe.itch.io/devils-coin-tileset
+
+Caixas: https://sirshoe.itch.io/devils-coin-tileset, https://sarturxz.itch.io/platformer-2d-tilesset-1-sarturxzsartur-art-studio e https://resetgamesltd.itch.io/free-pixel-pack
+
+Elevador: https://0x72.itch.io/16x16-robot-tileset
+
+Plataforma inicial do Soldado: https://resetgamesltd.itch.io/free-pixel-pack
 
 Bala da arma da protagonista: https://www.reddit.com/user/MMJP/
 
@@ -137,7 +148,7 @@ Torre que atira: https://www.flaticon.com/br/icone-gratis/torre-de-agua_3144753
 INFORMAÇÕES ADICIONAIS:
 
 
-Destaques do produto: É uma maneira de mostrar pras pessoas as consequências que a guerra tem nas pessoas e as dificuldades que essas pessoas têm nesses cenários horríveis, na forma de um jogo simples e emocionante
+Destaques do produto: É uma maneira divertida de contar uma história de uma mãe em um ambiente horrível que é o de guerra, na forma de um jogo de plataforma simples e envolvente
 
 Custo da produção:
 
@@ -147,4 +158,4 @@ Trello: https://trello.com/b/BIsFmVyR/red-zone
 
 GitHub(repositório remoto): https://github.com/MAUAK/FP3-Red-Zone
 
-Integrantes do projeto: Kauam Batista (Documentação/Game Design/Programação), Geovany Bertanha (Programação), Daniel Oliveira (Game Design/Programação), Maria Sabino (Ilustração), Rafael Rodrigues (Game Design/Documentação).
+Integrantes do projeto: Kauam Batista (Documentação/Game Design/Programação), Geovany Bertanha (Programação), Daniel Oliveira (Game Design/Programação), Maria Sabino (), Rafael Rodrigues (Game Design/Documentação).
