@@ -71,7 +71,7 @@ SOLDADO(INIMIGO)
 
 
 
-Características dos personagens na gameplay: Elizabeth possui uma quantidade não muito elevada de vida e experiência policial, ela tem que derrotar os soldados atirando neles, mas enquanto ela tem apenas um revólver, os soldados possuem um fuzil automático
+Características dos personagens na gameplay: Elizabeth possui uma quantidade de vida e experiência policial, ela tem que derrotar os soldados atirando neles, mas enquanto ela tem apenas um revólver, os soldados possuem um fuzil automático
 
 Controle da personagem: Elizabeth pula, anda de um lado para o outro, sobe elevadores, se esconde no cenário, atira com sua pistola, pega itens(alimentos e munição) pelo mapa e come os alimentos para não deixar sua barra de fome diminuir
 
@@ -88,7 +88,7 @@ Cenário do jogo:
 
 Game World:  Será em um ambiente tomado pela guerra, com soldados inimigos circulando e diversas armadilhas
 
-Game Experience: O jogador será colocado um cenário de guerra sem muita explicação até o término da fase 1, onde Elizabeth acha a primeira pista sobre seus filhos, a primeira impressão que fica é a gameplay interessante junto com uma trilha sonora envolvente, seguida pelo interesse no objetivo principal da personagem, que ao longo da jornada da a sensação que está ficando mais próximo
+Game Experience: O jogador será colocado em um cenário de guerra sem muita explicação até o término da fase 1, onde Elizabeth acha a primeira pista sobre seus filhos, a primeira impressão que fica é a gameplay interessante e a imersão no jogo junto com uma trilha sonora envolvente, seguida pelo interesse no objetivo principal da personagem, que ao longo da jornada dá a sensação que está ficando mais próximo
 
 
 GAMEPLAY MECHANICS
@@ -143,6 +143,40 @@ Mina Terrestre: https://www.pngwing.com/en/free-png-pywsn
 
 Torre que atira: https://www.flaticon.com/br/icone-gratis/torre-de-agua_3144753
 
+Bala da arma do inimigo: https://www.shareicon.net/miscellaneous-bullet-ammo-weapons-munition-832468
+
+Comidas: https://br.freepik.com/vetores-gratis/ilustracao-de-sardinha-em-lata-desenhada-a-mao_15636267.htm
+        
+        https://www.vecteezy.com/vector-art/2597845-eco-glass-of-coffee-hand-drawn-vector-illustration-isolated-on-white-background
+        
+        https://www.istockphoto.com/br/vetor/sardinhas-de-desenho-animado-em-uma-lata-gm1334324042-416494283
+        
+        https://br.freepik.com/vetores-premium/um-conjunto-de-barras-de-cereais-feitas-de-muesli-e-chocolate-vetor-de-sobremesa-vegana-saudavel-de-desenho-animado_21776316.htm
+        
+        https://www.istockphoto.com/br/vetor/cantil-de-%C3%A1gua-do-ex%C3%A9rcito-e-caso-em-%C3%ADcone-de-vector-design-plano-gm817325268-132263977
+        
+        https://www.youtube.com/watch?v=DLAIYSMYy2g&t=56s
+ 
+ Sons:  
+ 
+ Sirene: https://freesound.org/people/minas_e/sounds/593177/
+ 
+ Pegar item: https://freesound.org/people/SilverIllusionist/sounds/411178/
+ 
+ Explosão: https://freesound.org/people/juskiddink/sounds/108641/
+ 
+ Tiro do Fuzil: https://freesound.org/people/pgi/sounds/212608/
+ 
+ Porta abrindo: https://freesound.org/people/InspectorJ/sounds/431117/
+ 
+ Tiro da pistola: https://www.epidemicsound.com/track/3vFb5HKPPE/
+ 
+ Pegar munição: https://www.epidemicsound.com/track/tbTDahn1Ap/
+ 
+ 
+ Mochila do inventário: https://www.freepik.com/free-vector/camping-backpacks-set_13146194.htm
+ 
+ 
 
 
 INFORMAÇÕES ADICIONAIS:
