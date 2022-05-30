@@ -145,36 +145,38 @@ Torre que atira: https://www.flaticon.com/br/icone-gratis/torre-de-agua_3144753
 
 Bala da arma do inimigo: https://www.shareicon.net/miscellaneous-bullet-ammo-weapons-munition-832468
 
-Comidas: https://br.freepik.com/vetores-gratis/ilustracao-de-sardinha-em-lata-desenhada-a-mao_15636267.htm
+Comidas: 
+
+https://br.freepik.com/vetores-gratis/ilustracao-de-sardinha-em-lata-desenhada-a-mao_15636267.htm
         
-        https://www.vecteezy.com/vector-art/2597845-eco-glass-of-coffee-hand-drawn-vector-illustration-isolated-on-white-background
+https://www.vecteezy.com/vector-art/2597845-eco-glass-of-coffee-hand-drawn-vector-illustration-isolated-on-white-background
         
-        https://www.istockphoto.com/br/vetor/sardinhas-de-desenho-animado-em-uma-lata-gm1334324042-416494283
+https://www.istockphoto.com/br/vetor/sardinhas-de-desenho-animado-em-uma-lata-gm1334324042-416494283
         
-        https://br.freepik.com/vetores-premium/um-conjunto-de-barras-de-cereais-feitas-de-muesli-e-chocolate-vetor-de-sobremesa-vegana-saudavel-de-desenho-animado_21776316.htm
+https://br.freepik.com/vetores-premium/um-conjunto-de-barras-de-cereais-feitas-de-muesli-e-chocolate-vetor-de-sobremesa-vegana-saudavel-de-desenho-animado_21776316.htm
         
-        https://www.istockphoto.com/br/vetor/cantil-de-%C3%A1gua-do-ex%C3%A9rcito-e-caso-em-%C3%ADcone-de-vector-design-plano-gm817325268-132263977
+https://www.istockphoto.com/br/vetor/cantil-de-%C3%A1gua-do-ex%C3%A9rcito-e-caso-em-%C3%ADcone-de-vector-design-plano-gm817325268-132263977
         
-        https://www.youtube.com/watch?v=DLAIYSMYy2g&t=56s
+https://www.youtube.com/watch?v=DLAIYSMYy2g&t=56s
  
- Sons:  
+Sons:  
  
- Sirene: https://freesound.org/people/minas_e/sounds/593177/
+Sirene: https://freesound.org/people/minas_e/sounds/593177/
  
- Pegar item: https://freesound.org/people/SilverIllusionist/sounds/411178/
+Pegar item: https://freesound.org/people/SilverIllusionist/sounds/411178/
  
- Explosão: https://freesound.org/people/juskiddink/sounds/108641/
+Explosão: https://freesound.org/people/juskiddink/sounds/108641/
  
- Tiro do Fuzil: https://freesound.org/people/pgi/sounds/212608/
+Tiro do Fuzil: https://freesound.org/people/pgi/sounds/212608/
  
- Porta abrindo: https://freesound.org/people/InspectorJ/sounds/431117/
+Porta abrindo: https://freesound.org/people/InspectorJ/sounds/431117/
  
- Tiro da pistola: https://www.epidemicsound.com/track/3vFb5HKPPE/
+Tiro da pistola: https://www.epidemicsound.com/track/3vFb5HKPPE/
  
- Pegar munição: https://www.epidemicsound.com/track/tbTDahn1Ap/
+Pegar munição: https://www.epidemicsound.com/track/tbTDahn1Ap/
  
  
- Mochila do inventário: https://www.freepik.com/free-vector/camping-backpacks-set_13146194.htm
+Mochila do inventário: https://www.freepik.com/free-vector/camping-backpacks-set_13146194.htm
  
  
 
