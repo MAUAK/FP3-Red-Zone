@@ -45,7 +45,8 @@ História do jogo(Resumo) - Uma mãe que acaba se vendo no meio de uma guerra, e
 Fluxo de telas:
 
 
-![gamefluxo](https://user-images.githubusercontent.com/64094846/161396799-7f64b236-de73-4cbd-bbae-b11038c59a86.png)
+![Flowchart_2](https://user-images.githubusercontent.com/64094846/173244691-1e147e6b-06d9-47b8-894e-0c3e31dc6865.jpg)
+
 
 
 Gênero do jogo: Ação e Plataforma
@@ -81,8 +82,9 @@ Interação dos personagens: O Soldado é o inimigo padrão do jogo, que tenta m
 
 GAMEPLAY
 
-Fluxo do jogo: Menu Principal - Play - Fase tutorial (ensina como jogar o jogo) - Fase 1 - Fase 2 - End Game
+Fluxo do jogo: Menu Principal - Play - Fase tutorial (ensina como jogar o jogo) - Fase 1 - End Game
                               - Exit - Fecha o jogo
+                              - Credits
 
 Cenário do jogo:
 
@@ -95,13 +97,13 @@ GAMEPLAY MECHANICS
 
 Coletáveis: Munição e comida
 
-Mecânica do protagonista: A e D para a movimentação do player(esquerda e direita), E para subir o elevador, ESPAÇO para pular, Botão Esquerdo do mouse para atirar, I para abrir o inventário e Clicar com o botão esquerdo do mouse para comer a comida do inventário
+Mecânica do protagonista: A e D para a movimentação do player(esquerda e direita), E para subir o elevador, ESPAÇO para pular, Botão Direito do mouse para atirar, I para abrir o inventário e Clicar com o botão esquerdo do mouse para comer a comida do inventário
 
 Inteligência Artificial: Inimigos patrulham pela cena e atiram no player se ele chegar muito próximo
 
 Como os inimigos irão prejudicar o player: Atirando no player com seus fuzis
 
-Como o jogador poderá vencê-los: Ou ela passa de fase passando despercebida pelos inimigos ou poderá derrota-los atirando neles
+Como o jogador poderá vencê-los: Atirando neles e os matando
 
 Os inimigos possuem uma história: Soldados do lado oposto da personagem na guerra
 
@@ -111,9 +113,7 @@ CENAS DE CORTE, MATERIAIS DE BÔNUS E CONCORRÊNCIA
 
 Imagem original da logo: https://www.vectorstock.com/royalty-free-vector/protective-suit-gas-mask-with-lenses-and-sign-vector-18911728
 
-Música do menu: https://uppbeat.io/track/ilya-kuznetsov/serenity
-
-Persoangem principal: https://poohcom1.itch.io/soldier-girl-sprite-pack
+Personagem principal: https://poohcom1.itch.io/soldier-girl-sprite-pack
 
 Soldado Inimigo: https://www.deviantart.com/lostchild14000/art/Sprite-Sheet-Gun-Soldier-675509084
 
@@ -145,6 +145,7 @@ Torre que atira: https://www.flaticon.com/br/icone-gratis/torre-de-agua_3144753
 
 Bala da arma do inimigo: https://www.shareicon.net/miscellaneous-bullet-ammo-weapons-munition-832468
 
+
 Comidas: 
 
 https://br.freepik.com/vetores-gratis/ilustracao-de-sardinha-em-lata-desenhada-a-mao_15636267.htm
@@ -160,12 +161,16 @@ https://www.istockphoto.com/br/vetor/cantil-de-%C3%A1gua-do-ex%C3%A9rcito-e-caso
 https://www.youtube.com/watch?v=DLAIYSMYy2g&t=56s
  
 Sons:  
+
+Música do menu: https://uppbeat.io/track/ilya-kuznetsov/serenity
+
+Música fase 1: https://www.youtube.com/watch?v=Rge79Y2WzH0&t=69s
  
 Sirene: https://freesound.org/people/minas_e/sounds/593177/
  
 Pegar item: https://freesound.org/people/SilverIllusionist/sounds/411178/
  
-Explosão: https://freesound.org/people/juskiddink/sounds/108641/
+Explosão da mina terrestre: https://freesound.org/people/juskiddink/sounds/108641/
  
 Tiro do Fuzil: https://freesound.org/people/pgi/sounds/212608/
  
@@ -174,11 +179,33 @@ Porta abrindo: https://freesound.org/people/InspectorJ/sounds/431117/
 Tiro da pistola: https://www.epidemicsound.com/track/3vFb5HKPPE/
  
 Pegar munição: https://www.epidemicsound.com/track/tbTDahn1Ap/
+
+Som do esgoto: https://youtu.be/mkUR2k-wK5U
+
+Cachoeira do esgoto: https://freesound.org/people/InspectorJ/sounds/365921/
+
+Música do bar: https://www.youtube.com/watch?v=TmIwm5RElRs
+
+Som do Spray: https://www.youtube.com/watch?v=1vP5zZ_m6o8
+
+Chuva: https://www.youtube.com/watch?v=7Vc4-FDGBxo&t=3s
+
+
  
  
-Mochila do inventário: https://www.freepik.com/free-vector/camping-backpacks-set_13146194.htm
+Mochila do inventário: https://br.freepik.com/vetores-premium/mochila-de-exercito-tatica-de-desenho-vetorial-marrom-simples_23979321.htm
+
+Ícone de vida: https://pixabay.com/pt/illustrations/cora%C3%A7%C3%A3o-asas-anjo-amor-romance-5462571/
+
+Lata de spray da animação da logo: https://www.istockphoto.com/nl/vector/vector-cartoon-aerosol-spray-with-turquoise-paint-gm486054578-72453833
  
- 
+Tileset da terra, Fase 1: https://soupixel.itch.io/tileset-island-of-loss
+
+Tileset esgoto: https://kingkelp.itch.io/sewer-tileset
+
+Bar, Fase 1: https://styloo.itch.io/freebarassetspack
+
+
 
 
 INFORMAÇÕES ADICIONAIS:
